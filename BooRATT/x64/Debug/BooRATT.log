@@ -1,0 +1,3 @@
+﻿  BooRATT.cpp
+D:\programming\C++\BooRATT\BooRATT.cpp(173,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  BooRATT.vcxproj -> D:\programming\C++\BooRATT\x64\Debug\BooRATT.exe
